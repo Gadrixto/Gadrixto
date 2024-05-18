@@ -2,7 +2,7 @@
 - 👀 I’m interested in hiking
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gabiosa.grc@gmail.com
+- 📫 How to reach me ada_hack608@womenintech.mx
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like whistle
 
