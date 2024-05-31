@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gadrixto
 - 👀 I’m interested in hiking
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data ingeniering
+- 💞️ I’m looking to collaborate on financing tech
 - 📫 How to reach me ada_hack608@womenintech.mx
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like whistle
